@@ -6,7 +6,8 @@
 </listeners>
   <test name="Test">
     <classes>
-      <class name="insuranceCalculation_Motorcycle.EndtoEndTests_motorCycle"/>
+      <!--<class name="insuranceCalculation_Motorcycle.EndtoEndTests_motorCycle"/>-->
+      <class name="insuranceCalculation_Motorcycle.errortests_motor_cycle"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
 </suite> <!-- Suite -->
